@@ -15,7 +15,7 @@ import org.mapstruct.factory.Mappers;
 public class RoomEscapeApplication {
 
 
-    public static void main(String[] args) {
+    private static void main(String[] args) {
         createController().run();
     }
 
